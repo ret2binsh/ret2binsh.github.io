@@ -159,6 +159,7 @@ a:focus {
 }
 
 .intro .intro-body .intro-text {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     font-size: 18px;
 }
 
